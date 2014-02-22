@@ -9,5 +9,19 @@ hi! monkey- uki-
 hi! monkey- uki-uki-
 remote base mergre test y-undertree
 aaa
+
+
+2014-02-22 kinoshita edx project test
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
 feature-002
+feature-001 test
 feature-003 by ogawa
